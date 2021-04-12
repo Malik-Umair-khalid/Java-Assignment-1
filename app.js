@@ -7,3 +7,7 @@
 
 // var age = 17
 // alert(age)
+
+// var birthYear =  2002 
+// document.write(birthYear)
+
